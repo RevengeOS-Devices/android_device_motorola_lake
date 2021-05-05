@@ -25,4 +25,4 @@ Front Camera | 12 MP, 1.25µm
 
 `git clone https://gitlab.com/NemesisDevelopers/motorola/motorola_motosignatureapp.git -b eleven packages/apps/MotoSignatureApp`
 
-![Moto G7 Plus](https://cdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g7-plus-2.jpg "Moto G7 Plus")
+![Moto G7 Plus](https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g7-plus-2.jpg "Moto G7 Plus")
