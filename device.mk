@@ -68,6 +68,10 @@ PRODUCT_BOOT_JARS += qcom.fmradio
 PRODUCT_PACKAGES += \
     init.lake.rc
 
+# MotCamera2
+PRODUCT_PACKAGES += \
+    MotCamera2
+
 # NFC
 PRODUCT_PACKAGES += \
     android.hardware.nfc@1.2-service \
