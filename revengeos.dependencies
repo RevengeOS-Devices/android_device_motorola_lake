@@ -12,14 +12,8 @@
     "remote": "github"
   },
   {
-    "repository": "RevengeOS-Devices/vendor_motorola_lake",
-    "target_path": "vendor/motorola/lake",
-    "branch": "r11.0",
-    "remote": "github"
-  },
-  {
-    "repository": "RevengeOS-Devices/vendor_motorola_sdm660-common",
-    "target_path": "vendor/motorola/sdm660-common",
+    "repository": "RevengeOS-Devices/vendor_motorola",
+    "target_path": "vendor/motorola",
     "branch": "r11.0",
     "remote": "github"
   },
