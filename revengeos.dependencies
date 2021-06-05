@@ -6,9 +6,9 @@
     "remote": "github"
   },
   {
-    "repository": "RevengeOS-Devices/kernel_motorola_lake",
+    "repository": "DhineshCool/cybertron",
     "target_path": "kernel/motorola/sdm660",
-    "branch": "r11.0",
+    "branch": "v2.1",
     "remote": "github"
   },
   {
