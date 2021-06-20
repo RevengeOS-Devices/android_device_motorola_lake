@@ -42,6 +42,12 @@
     "remote": "gitlab"
   },
   {
+    "repository": "NemesisDevelopers/motorola/packages_apps_MotoDolbyV3",
+    "target_path": "packages/apps/MotoDolbyV3",
+    "branch": "eleven",
+    "remote": "gitlab"
+  },
+  {
     "repository": "LineageOS/android_system_qcom",
     "target_path": "system/qcom",
     "branch": "lineage-18.1",
