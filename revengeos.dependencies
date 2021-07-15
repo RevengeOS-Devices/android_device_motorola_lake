@@ -12,9 +12,9 @@
     "remote": "github"
   },
   {
-    "repository": "RevengeOS-Devices/vendor_motorola",
+    "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch": "r11.0",
+    "branch": "lineage-18.1",
     "remote": "github"
   },
   {
